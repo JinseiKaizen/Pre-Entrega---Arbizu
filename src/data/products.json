@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Conteiner",
+    "description": "Tipo de diseño a pedido",
+    "price": 1.000,
+    "thumbnail": ["img/Conteiner.jpeg"],
+    "code": "abc123",
+    "stock": 25,
+    "category": "A PEDIDO",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Conteiner Diseño a Pedido",
+    "description": "a comprar",
+    "price": 1.000,
+    "thumbnail": ["img/Conteiner1.jpeg"],
+    "code": "abc321",
+    "stock": 25,
+    "category": "A PEDIDO",
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "teemo PICA",
+    "description": "Solicita cualquier diseño",
+    "price": 3.000,
+    "thumbnail": ["img/teemo.jpeg"],
+    "code": "cba123",
+    "stock": 25,
+    "category": "Diseñado a PEDIDO",
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "teemo picachu",
+    "description": "Diseños a pedidos",
+    "price": 3.000,
+    "thumbnail": ["img/teemo1.jpeg"],
+    "code": "cba124",
+    "stock": 28,
+    "category": "Diseñado a PEDIDO",
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Picachu Logo a Pedido",
+    "description": "Picachu Logo a Pedido",
+    "price": 2.000,
+    "thumbnail": ["img/PicaAApedido1.jpeg"],
+    "code": "56712356",
+    "stock": 65,
+    "category": "Diseñado a PEDIDO",
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Picachu Logo a Pedido",
+    "description": "Picachu Logo a Pedido",
+    "price": 2.000,
+    "thumbnail": ["img/PicaAAPedido.jpeg"],
+    "code": "56712356",
+    "stock": 65,
+    "category": "Diseñado a PEDIDO",
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Tecla Pionner Repuesto",
+    "description": "Repuesto especial a pedido de componente sin repuesto",
+    "price": 5.000,
+    "thumbnail": ["img/teclaPioner.jpeg"],
+    "code": "518",
+    "stock": 95,
+    "category": "Diseños Especiales",
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "Tecla Pionner Repuesto",
+    "description": "Repuesto especial a pedido de componente sin repuesto",
+    "price": 5.000,
+    "thumbnail": ["img/teclaPionner1.jpeg"],
+    "code": "518",
+    "stock": 95,
+    "category": "Diseños Especiales",
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "Cartel de luz led",
+    "description": "Pedi cualquier palabra o logo ",
+    "price": 10.000,
+    "thumbnail": ["img/vifest.jpeg"],
+    "code": "066152",
+    "stock": 65,
+    "category": "Carteles LED",
+    "status": true
+  },
+  {
+    "id": 10,
+    "title": "Cartel de luz led",
+    "description": "Pedi cualquier palabra o logo ",
+    "price": 10.000,
+    "thumbnail": ["img/vifest1.jpeg"],
+    "code": "066152",
+    "stock": 65,
+    "category": "Carteles LED",
+    "status": true
+  }
+]
